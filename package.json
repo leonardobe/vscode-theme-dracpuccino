@@ -1,0 +1,27 @@
+{
+  "name": "theme-dracpuccino",
+  "displayName": "Dracpuccino",
+  "description": "🌘 A hybrid dark theme combining Dracula and Catppuccin vibes.",
+  "version": "0.0.1",
+  "publisher": "Dracpuccino",
+	"license": "MIT",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dracpuccino",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dracpuccino.json"
+      }
+    ]
+  },
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/leonardobe/vscode-theme-dracpuccino.git"
+  }
+}
