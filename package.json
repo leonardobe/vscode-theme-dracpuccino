@@ -2,7 +2,7 @@
   "name": "theme-dracpuccino",
   "displayName": "Dracpuccino",
   "description": "🌘 A hybrid dark theme combining Dracula and Catppuccin vibes.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "Dracpuccino",
   "license": "MIT",
   "engines": {
