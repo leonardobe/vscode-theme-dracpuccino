@@ -537,7 +537,7 @@
                 "variable.other.constant"
             ],
             "settings": {
-                "foreground": "#BD93F9" ///Mudar para não ficar muinto igual
+                "foreground": "#BD93F9"
             }
         },
         {
@@ -1155,5 +1155,14 @@
                 "fontStyle": ""
             }
         },
-    ],
+        {
+            "name": "Json files",
+            "scope": [
+                "support.type.property-name.json"
+            ],
+            "settings": {
+                "fontStyle": ""
+            }
+        }
+    ]
 }

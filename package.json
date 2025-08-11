@@ -4,23 +4,32 @@
   "description": "🌘 A hybrid dark theme combining Dracula and Catppuccin vibes.",
   "version": "0.0.1",
   "publisher": "Dracpuccino",
-	"license": "MIT",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.102.0"
   },
+  "maintainers": [
+    "Leonardo Curtis"
+  ],
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "dracpuccino",
+    "dark",
+    "theme",
+    "color-theme"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Dracpuccino",
+        "label": "Dracpuccino Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/dracpuccino.json"
       }
     ]
   },
-    "repository": {
+  "repository": {
     "type": "git",
     "url": "https://github.com/leonardobe/vscode-theme-dracpuccino.git"
   }
